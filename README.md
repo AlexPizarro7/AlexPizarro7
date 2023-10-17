@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3>Hello there &#128508;</h3>
+<h3>My name is Alex Pizarro</h3>
 
 <!--
 **AlexPizarro7/AlexPizarro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
