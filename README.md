@@ -13,12 +13,16 @@
 ### ✒️ Tools I am Learning 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="60" style="margin-right: 10px;" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="60" style="margin-right: 10px;" /><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" height="60" style="margin-right: 10px;" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="60" style="margin-right: 10px;" /><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perl-programming-language-icon.png" height="60" style="margin-right: 10px;" />
 
-
-
 <br>
 
 ### My Hobbies 
 - Learning new programming tools
 - Linguistics and learning (human) languages
   - English (Native), Spanish (Native), French (B1), Mandarin (A1)
-- Painting and art 
+- Painting and art
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPizarro7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
