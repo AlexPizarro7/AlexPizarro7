@@ -18,7 +18,7 @@
 ### My Hobbies 
 - Learning new programming tools
 - Linguistics and learning (human) languages
-  - English (Native), Spanish (Native), French (B1), Mandarin (A1)
+  - English (Native), Spanish (Native), French (B1), Russian (A1)
 - Painting and art
 
 
