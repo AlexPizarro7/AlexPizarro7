@@ -1,5 +1,12 @@
 <h1 align="center">Hello 👋, I'm Alex Pizarro</h1>
-<h3 align="left">I'm a computer science, mathematics and biology student</h3>
+<h3 align="left">I'm a computer a current computer science student, passionate about coding, mathematics and the world in general.</h3>
+
+<br>
+
+### 🎓 Education
+- **Associate of Science in Biology** - Tyler Junior College (2017-2019)
+- **Bachelor of Science in Computer Science** - University of Texas at Tyler (Expected 2024)
+- **Master of Science in Mathematics** - University of Texas at Tyler (Applying)
 
 <br>
 
@@ -15,12 +22,13 @@
 
 <br>
 
-### My Hobbies 
-- Learning new programming tools
-- Linguistics and learning (human) languages
-  - English (Native), Spanish (Native), French (B1), Russian (A1)
-- Painting and art
+### 🎨 My Hobbies and Interests
+- **Coding & Tech Exploration**: Continually learning new programming tools and technologies.
+- **Polyglot Pursuits**: Fluent in English and Spanish, with proficiency in French and Mandarin, and currently learning Russian.
+- **Literary Enthusiast**: Avid reader and aspiring writer with a love for classic literature, poetry, and science fiction.
+- **Artistic Expression**: Enjoy painting and exploring various art forms.
 
+<br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPizarro7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
